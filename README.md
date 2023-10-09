@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+https://developers.google.com/profile/badges/community/gdsc/2023/member?hl=ko
+GDSC (23~24) 학생개발자
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJB0527%2Fhit-counter"/></a>           
 <a href="클릭시 이동할 링크" target="_blank">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
