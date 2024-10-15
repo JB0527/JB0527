@@ -2,7 +2,7 @@
 
 ## 소개
 
-안녕하세요, 저는 NLP, CV, Recsys 등 다양한 분야에 걸쳐 준비된 스택을 보유하고 있습니다. NLP를 중심으로 LLM과 관련된 여러 서비스 개발을 진행해 왔으며 CV를 결합하여 현재는 주로 multimodal task를 중심으로 진행하고 있습니다, AI 관련 다양한 대회 준비 경험도 있으며, 현재는 out of distribution detection을 주제로 한 논문을 작성 중이고 여러 방법을 통해 성능을 향상시키고 있습니다. Multimodal learning or LLM 등 vision task에서 text(label or prompt , query) 등을 다루는 방식에 대해 관심이 많습니다!
+안녕하세요, 저는 NLP, CV, Recsys 등 다양한 분야에 걸쳐 준비된 스택을 보유하고 있습니다. NLP를 중심으로 LLM과 관련된 여러 서비스 개발을 진행해 왔으며 CV를 결합하여 현재는 주로 multimodal task를 중심으로 진행하고 있습니다, AI 관련 다양한 대회 준비 경험도 있으며, 현재는 out of distribution detection을 주제에 관심이 있어 여러 방법을 통해 성능을 향상시키고 있습니다. 이외에도, Multimodal learning or LLM 등 vision task에서 text(label or prompt , query) 등을 다루는 방식에 대해 관심이 많습니다!
 
 기타 모든 사항은 profil bio notion link를 참고 바랍니다. https://www.notion.so/BONGKI-Jeong-50ff5733389144b8a8caef66db3621bf
 ## 기술 스택 / Skill Set
