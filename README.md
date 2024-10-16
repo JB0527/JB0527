@@ -64,7 +64,7 @@
 
 - 2023 samsung ai forum
 - 2024 IPIU (Jeju island)
-- 멀티모달 OOD detection관련 논문 작성 중 (2023.09 - 현재)
+- 2024 KSIAM 춘계 학회
 
 ## 동아리 및 기타 활동
 
