@@ -1,97 +1,229 @@
-### Hi there 👋
+# Hi there
+## 🧑‍💻 소개
 
-## 소개
+안녕하세요, MLOps 엔지니어를 꿈꾸는 **정봉기**입니다. NLP, Computer Vision, 추천시스템 등 다양한 AI 분야에서 **11개 대회 상위 10% 성과**를 달성하며 실전 경험을 쌓아왔습니다. 특히 **제조업 스마트팩토리**, **의료 AI**, **실시간 데이터 파이프라인** 구축에 관심이 있으며, 현재는 **MSA 기반 대규모 실시간 시스템 엔지니어링**과 **Out-of-Distribution Detection** 연구에 집중하고 있습니다.
 
-안녕하세요, 저는 NLP, CV, Recsys 등 다양한 분야에 걸쳐 준비된 스택을 보유하고 있습니다. NLP를 중심으로 LLM과 관련된 여러 서비스 개발을 진행해 왔으며 CV를 결합하여 현재는 주로 multimodal task를 중심으로 진행하고 있습니다, AI 관련 다양한 대회 준비 경험도 있으며, 현재는 out of distribution detection을 주제에 관심이 있어 여러 방법을 통해 성능을 향상시키고 있습니다. 이외에도, Multimodal learning or LLM 등 vision task에서 text(label or prompt , query) 등을 다루는 방식에 대해 관심이 많습니다!
+**📍 현재**: 인하대학교 수학/통계학과 복수전공 (2025.02 졸업 예정) | SSAFY 11기 데이터 엔지니어링 특화과정
 
-기타 모든 사항은 profil bio notion link를 참고 바랍니다. 
-(잠시 보류)
+---
 
-## 기술 스택 / Skill Set
+## 🛠 기술 스택
 
-| 구분                 | Skill                                          |
-| -------------------- | ---------------------------------------------- |
-| Programing Languages | Python, R                                      |
-| Framework / Library  | Tensorflow, Pytorch, Pandas, Numpy …           |
-| 이외의 기술스택     | Fastapi, Firebase, google analytics …          |
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-## 경력 사항 / Work Experience
+### **AI/ML Frameworks**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-| 근무기간        | 소속명 및 부서                                       | 직위       | 담당 업무                                          |
-| --------------- | -------------------------------------------------- | ---------- | ------------------------------------------------- |
-| 2022.11 – 2024.01 | 인하대학교 의과대학 간호정보학 텍스트분석 연구실       | 학부연구생  | NLP 텍스트처리, BERT base 낙상 예측 자동화시스템 배포 |
-| 2023.06 – 현재    | 인하대학교 수학과 인공지능 연구실 (Mathematical Intelligence LAB) | 학부연구생  | 멀티모달 관련 연구 및 실험 논문 작성, 그래프 관련 task, 주니어 학부연구생 교육, 스마트팩토리(공정) |
+### **Data Engineering & Infrastructure**
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 주요 프로젝트 / Projects
+### **Development Tools**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-1. **신한 신용카드 데이터 분석 및 시각화, 국민청원 크롤링 및 ML분석 (2019-20)**  
-   개인 역량 강화를 위해 ML과 DL을 공부하며 진행한 프로젝트입니다.
-   
-2. **간호정보학 텍스트분석 연구실에서의 EMR 기반 BERT 낙상 예측 자동화 프로그램 개발 및 배포 (2022.11 - 2024.01)**  
-   여러 병원에 배포하였고, 이를 관리하는 업무도 진행하였습니다. 도메인 데이터 라벨링 비용 절감을 위한 pseudo labeling 및 domain adaptation 기술 적용.
+---
 
-3. **Planyee 위치기반 여행앱 서비스 개발 (2023.09-11)**  
-   여행지 위치기반 추천시스템 구축 및 첫 학생들 간 협업을 경험. GDSC 교내 개발 동아리 참여.  
-   [Planyee GitHub](https://github.com/Planyee)
+## 💼 경력 사항
 
-4. **Google solution challenge, Mingle 발음교정 앱서비스 개발 (2024.01-05)**  
-   전세계 수천 팀 중 Top 100에 선정. 음성인식 기반 IPA 발음 피드백 서비스 및 Firebase와 Google Analytics를 활용한 데이터 분석.  
-   [Mingle GitHub](https://github.com/JB0527/Mingle)  
-   [Mingle YouTube](https://www.youtube.com/watch?v=qV6F9mGq8WM)
+| 기간 | 소속 | 역할 | 주요 업무 |
+|------|------|------|-----------|
+| **2025.01 – 현재** | SSAFY 13기 (삼성 청년 SW AI 아카데미) | 교육생 | Java 풀스택 웹개발 과정 수료, 데이터 엔지니어링 특화과정 진행 |
+| **2023.07 – 2025.02** | 인하대 수학과 Mathematical Intelligence LAB | 학부연구생 | 멀티모달 연구, 그래프 신경망, 제조공정 최적화, 이상탐지 연구 |
+| **2023.03 – 2024.02** | 인하대 의과대학 간호정보학 연구실 | 학부연구생 | BERT 기반 낙상예측 시스템 개발 및 다병원 배포 |
 
-5. **LLM-RAG 모델 개발, Dacon 대회 참여 (24.03)**  
-   도배 하자 질의응답 처리 AI 모델 개발. 32위로 마무리.  
-   [LLM-hansol GitHub](https://github.com/JB0527/LLM-hansol)
+---
 
-6. **국회 생성AI 기반 서비스 공모전 (2024.01-)**  
-   LLM으로 국회 데이터를 학습하여 챗봇 서비스 구현. 현재 본선 진출 중.
+## 🏆 주요 수상 경력
 
-7. **멀티모달 인하 인공지능 대회 1등 (2023)**  
-   GCN 등 다양한 모델을 학습하여 앙상블 전략을 구현. 전체 27팀 중 1등 (대학원, 학부생 부분 전체 1등)  
-   [Competition GitHub](https://github.com/JB0527/Competition-Multi-modal-Recommender-System)
+### **🥇 AI 대회 수상**
+- **🥉 2023 Samsung AI Challenge**: Camera-Invariant Domain Adaptation **6위/223팀** (상위 3%)
+- **🥇 2023 인하대 AI Challenge**: 멀티모달 추천시스템 **대상** (학석사 통합 1위/27팀)
+- **🏅 Google Solution Challenge**: 발음교정 앱 **Top 100** (전세계)
 
-8. **Samsung AI Challenge : Camera-Invariant Domain Adaptation (2023.09)**  
-   카메라 특성 변화에 강한 도메인 어댑테이션 작업을 진행하며, VLM 및 CNN 기반 모델을 실험 및 비교. 300팀 중 6위.  
-   [Samsung AI Challenge GitHub](https://github.com/JB0527/Samsung_AI_Challenge)
+### **🏛 공공데이터 & 정부대회**
+- **🏅 국회 공공데이터 생성AI 대회**: **장려상** (LLM 기반 국회의원 추천 챗봇)
+- **🏅 서울AI재단**: **최우수상** (dasibom 프로젝트)
+- **🥇 교내 탄소중립 SW아카데미**: **개인 최우수상**
+- **🏅 ** SAFY 공통 프로젝트 수상 : 우수상** (assistudy)
 
-## 경진대회 및 공모전 참가 및 수상 이력
+### **🎓 학술대회**
+- **🎖 2024 KSIAM 추계학술대회**: **포스터 인기상** (제철공정 최적화)
+- **📊 2024 KSIAM 춘계학술대회**: 포스터 발표 (GNN 평면그래프 판별)
 
-- **2023 인하대학교 인공지능대회 대상** (2023.07-2023.08)
-- **SAIT 삼성 domain adaptation 종합 6등** (2023.09-2023.10)
-- **Mingle Google solution challenge Top 100** (2024.01~05)
+---
 
-## 학회 및 논문 참가
+## 🚀 주요 프로젝트
 
-- 2023 samsung ai forum
-- 2024 IPIU (Jeju island)
-- 2024 KSIAM 춘계 학회
+### **🏭 제조업 & 스마트팩토리**
 
-## 동아리 및 기타 활동
+#### **1. 철강공정 파이프 순서 최적화 시스템**
+- **성과**: 공정시간 **1.75배 단축**, KSIAM 추계학술대회 **포스터 인기상**
+- **기술**: MLP 소요시간 예측 + CP-SAT Solver 최적화
+- **특징**: 현장 방문을 통한 도메인 이해 기반 솔루션 설계
+- [📊 KSIAM 포스터](https://github.com/JB0527/Manufacturing-Optimization)
 
-- GDSC (23~24) 학생개발자
-- 인빅 데이터분석 학회 2기~9기 활동 (2020.03.~2023.12.)
+#### **2. 한양대 화학과 공동연구: 현미경 업스케일링**
+- **성과**: PSNR **5.4 개선**, 기존 대비 **10배 고화질** 형광현미경 변환
+- **기술**: Diffusion Modeling 기반 Super Resolution
+- **응용**: 제조업 품질검사, 반도체 웨이퍼 분석에 적용 가능
 
-## 프로그램
+### **🏥 의료 AI**
 
-- 인하대 탄소중립 아카데미 2기 (2024.03~)
+#### **3. 다병원 낙상예측 자동화 시스템**
+- **성과**: F1-Score **98%**, 국내 종합병원 **다기관 배포**
+- **기술**: BERT Domain Adaptation, Pseudo Labeling
+- **특징**: 의료진 GUI 인터페이스 제공으로 실용성 확보
+- [🏥 Medical AI Repository](https://github.com/JB0527/Medical-AI)
 
-## ETC
+### **🔧 MLOps & 데이터 엔지니어링**
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJB0527%2Fhit-counter"/></a>           
-<a href="클릭시 이동할 링크" target="_blank">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-<a href="클릭시 이동할 링크" target="_blank">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
-<a href="클릭시 이동할 링크" target="_blank">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
-<a href="클릭시 이동할 링크" target="_blank">
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
-<a href="클릭시 이동할 링크" target="_blank">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
-<a href="클릭시 이동할 링크" target="_blank">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+#### **4. MSA 기반 실시간 집중도 분석 시스템** ⭐ **SSAFY 우수상**
+- **성과**: 초당 **1,000+ 메시지 처리**, 평균 지연시간 **50ms 이하**, 서버 다운타임 **0회**
+- **아키텍처**: Spring Cloud + Kafka + Spark + Docker 
+- **핵심**: 온디바이스 AI → Kafka 스트리밍 → Spark 실시간 분석 → 개인화 피드백
+- **최적화**: 메모리 사용량 30% 절감, 수평확장을 통한 고가용성 확보
+- [🚀 Real-time AI System](https://github.com/JB0527/SSAFY-RealTime-AI)
 
-![JB0527's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jb0527&show_icons=true)
+#### **5. VLM 기반 Out-of-Distribution Detection**
+- **성과**: Post-hoc 방식으로 **1.5% 성능 향상**, 기존 모델 변경 없이 적용
+- **기술**: Orthogonal Vector Pre-training, Prompt Learning
+- **특징**: 제조업 신규 불량유형 탐지에 적용 가능
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+### **🌍 글로벌 서비스**
+
+#### **6. Mingle: 다문화가정 발음교정 앱** ⭐ **Google Top 100**
+- **성과**: Google Solution Challenge **Top 100**, 유튜브 홍보영상 제작
+- **기술**: IPA 음성인식, Gemini Vision Pro API, Firebase Analytics
+- **특징**: 실시간 발음 피드백 + 챗봇 서비스
+- [🗣 Mingle App](https://github.com/JB0527/Mingle) | [📹 YouTube Demo](https://www.youtube.com/watch?v=qV6F9mGq8WM)
+
+#### **7. 국회 생성AI 챗봇 서비스** 🏛 **국회 장려상**
+- **성과**: KoAlpaca + QLoRA 파인튜닝, Docker 통합배포
+- **기능**: "내 한표의 기대효과" 예측, "관심사별 국회의원 추천"
+- **특징**: RAG 기반 신뢰성 있는 정치정보 제공
+- [🏛 Political AI Service](https://github.com/JB0527/Political-AI)
+
+#### **8. dasibom** ⭐ **서울AI재단 최우수상**
+- **성과**: 서울AI재단 공모전 **최우수상** 수상
+- **기술**: 다시봄(dasibom) - AI 기반 혁신 솔루션
+- **특징**: 실생활 문제 해결을 위한 AI 서비스 개발
+- [🌟 dasibom Repository](https://github.com/JB0527/dasibom)
+
+### **🏗 데이터 엔지니어링**
+
+#### **9. 도배하자 QA 처리 시스템** 
+- **성과**: Dacon 대회 **32위** (LLM-RAG 기반)
+- **기술**: 한솔데코 도배 관련 질의응답 처리 AI 모델
+- **특징**: RAG 파이프라인을 활용한 도메인 특화 QA 시스템
+- [🏗 Construction AI](https://github.com/JB0527/LLM-hansol)
+
+---
+
+## 📊 대회 참여 현황
+
+| 연도 | 대회명 | 순위/성과 | 주요 기술 |
+|------|--------|----------|-----------|
+| **2023** | Samsung AI Challenge | **6위/223팀** | Domain Adaptation, Transformer Ensemble |
+| **2023** | 인하대 AI Challenge | **대상/27팀** | Multimodal Recommendation, SOTA 앙상블 |
+| **2024** | Google Solution Challenge | **Top 100** | Speech Recognition, Multi-platform App |
+| **2024** | 국회 공공데이터 AI 대회 | **장려상** | LLM Fine-tuning, RAG System |
+| **2024** | Dacon 도배하자 AI | **32위** | LLM-RAG, Question Answering |
+| **2025** | 서울AI재단 공모전 | **최우수상** | dasibom 프로젝트 |
+| **2025** | SSAFY 공통프로젝트 | **우수상** | MSA, Real-time Data Pipeline |
+
+**🎯 총 11개 대회 참여, 상위 10% 이상 성과 달성**
+
+---
+
+## 🎓 학술 활동
+
+### **📄 논문 발표**
+1. **"Planar Graph Classification: Graph Neural Network for Graphs"** (공동저자)  
+   - 2024 KSIAM 춘계학술대회 | 기존 알고리즘 대비 **100배 빠른 속도**
+
+2. **"Pipe Production Process Schedule Optimization"** (주저자)  
+   - 2024 KSIAM 추계학술대회 **포스터 인기상** | 공정시간 **1.75배 단축**
+
+### **🔬 연구 과제 참여**
+- **과기정통부**: "인공지능 기술 개발과 수학적 문제 해결에 관한 쌍방향 연구" (2023-2025)
+- **과기정통부**: "불확실성을 이용한 신뢰도 높은 딥러닝 네트워크 구축" (2024-2025)
+- **과기정통부**: "임상 빅데이터와 행동경제학 이론을 적용한 다면적 낙상예방 중재 개발" (2023-2024)
+
+---
+
+## 📜 자격증 & 어학
+
+### **🏅 자격증**
+- **빅데이터분석기사** (한국데이터산업진흥원, 2025.07)
+- **OPIc 영어** Intermediate Mid 2 (2024.09)
+
+### **💻 기술 숙련도**
+| 기술 | 수준 | 경험 |
+|------|------|------|
+| **Python** | 고급 | 6년 |
+| **PyTorch** | 중급 | 4년 |
+| **Java** | 중급 | 1년 |
+| **Docker** | 중급 | 3년 |
+| **Kafka/Spark** | 초급 | 1년 |
+
+---
+
+## 🌟 동아리 & 기타 활동
+
+### **👥 커뮤니티 활동**
+- **GDSC (Google Developer Students Club)** 교육 멘토 (2023-2024)
+- **INBIG 빅데이터 학회** 2기~9기, 딥러닝 교육 담당 (2020-2023)
+- **자연과학대학 수학과 학생회** 총무 (2019-2024)
+
+### **🏆 기타 수상**
+- **자연과학대학 김을형 장학금** 수상
+- **2023 SAIF 삼성 AI 포럼** 초청 참석
+- **2024 IPIU (이미지 프로세싱 학회)** 참가
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JB0527&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JB0527&layout=compact&theme=radical)
+
+---
+
+## 🎯 현재 관심사
+
+🔬 **연구 분야**
+- Out-of-Distribution Detection & Anomaly Detection  
+- Multimodal Learning (Vision + Language)
+- Real-time Data Pipeline & MLOps
+
+🏭 **응용 분야**  
+- 제조업 스마트팩토리 (품질관리, 공정최적화)
+- 의료 AI (임상 의사결정 지원)  
+- 금융 AI (리스크 관리, 이상거래 탐지)
+
+---
+
+## 📬 연락처
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qhdrl527@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JB0527)
+
+---
+
+> **"혁신은 협업을 통해, 학습은 협업을 위해"** - 다양한 도메인에서의 AI와 Data 경험을 바탕으로 실질적 가치를 창출하는 엔지니어가 되겠습니다.
+
+<!--- 
+JB0527/JB0527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
