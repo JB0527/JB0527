@@ -1,4 +1,4 @@
-# Hi there
+<img width="538" height="611" alt="image" src="https://github.com/user-attachments/assets/2ad1b3ff-ba1c-47d3-8a22-59007a96e49b" /># Hi there
 ## 🧑‍💻 소개
 
 안녕하세요, MLOps 엔지니어를 꿈꾸는 **정봉기**입니다. NLP, Computer Vision, 추천시스템 등 다양한 AI 분야에서 **11개 대회 상위 10% 성과**를 달성하며 실전 경험을 쌓아왔습니다. 특히 **제조업 스마트팩토리**, **의료 AI**, **실시간 데이터 파이프라인** 구축에 관심이 있으며, 현재는 **MSA 기반 대규모 실시간 시스템 엔지니어링**과 **Out-of-Distribution Detection** 연구에 집중하고 있습니다.
@@ -69,7 +69,7 @@
 - **성과**: 공정시간 **1.75배 단축**, KSIAM 추계학술대회 **포스터 인기상**
 - **기술**: MLP 소요시간 예측 + CP-SAT Solver 최적화
 - **특징**: 현장 방문을 통한 도메인 이해 기반 솔루션 설계
-- [📊 KSIAM 포스터](https://github.com/JB0527/Manufacturing-Optimization)
+- [📊 KSIAM 포스터](https://github.com/JB0527/schedule_optimization)
 
 #### **2. 한양대 화학과 공동연구: 현미경 업스케일링**
 - **성과**: PSNR **5.4 개선**, 기존 대비 **10배 고화질** 형광현미경 변환
@@ -82,7 +82,7 @@
 - **성과**: F1-Score **98%**, 국내 종합병원 **다기관 배포**
 - **기술**: BERT Domain Adaptation, Pseudo Labeling
 - **특징**: 의료진 GUI 인터페이스 제공으로 실용성 확보
-- [🏥 Medical AI Repository](https://github.com/JB0527/Medical-AI)
+- [🏥 Medical AI Repository](https://github.com/JB0527/Deep-Learning-Models-for-Fall-Classification) (더 큰 레포 데이터 안전 상 비공개)
 
 ### **🔧 MLOps & 데이터 엔지니어링**
 
@@ -91,7 +91,7 @@
 - **아키텍처**: Spring Cloud + Kafka + Spark + Docker 
 - **핵심**: 온디바이스 AI → Kafka 스트리밍 → Spark 실시간 분석 → 개인화 피드백
 - **최적화**: 메모리 사용량 30% 절감, 수평확장을 통한 고가용성 확보
-- [🚀 Real-time AI System](https://github.com/JB0527/SSAFY-RealTime-AI)
+- [🚀 Real-time MSA System](https://github.com/JB0527/assistudy) (현재 비공개)
 
 #### **5. VLM 기반 Out-of-Distribution Detection**
 - **성과**: Post-hoc 방식으로 **1.5% 성능 향상**, 기존 모델 변경 없이 적용
@@ -110,7 +110,7 @@
 - **성과**: KoAlpaca + QLoRA 파인튜닝, Docker 통합배포
 - **기능**: "내 한표의 기대효과" 예측, "관심사별 국회의원 추천"
 - **특징**: RAG 기반 신뢰성 있는 정치정보 제공
-- [🏛 Political AI Service](https://github.com/JB0527/Political-AI)
+- [🏛 Political AI Service](https://github.com/orgs/assembly00data-competition/repositories)
 
 #### **8. dasibom** ⭐ **서울AI재단 최우수상**
 - **성과**: 서울AI재단 공모전 **최우수상** 수상
